@@ -33,8 +33,9 @@ O idvogados é um projeto que visa posibilitar a entregadores que não tem seus 
 
 - [Video Completo](https://www.youtube.com/watch?v=v3B9w6wWNQA)
 
+<figure class="video_container">
 <iframe width="853" height="480" src="https://www.youtube.com/embed/v3B9w6wWNQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</figure>
 
 Existe um projeto onpesorce que está colocando este projeto para funcionar, link para o repositorio: `https://github.com/thr0w/idvogados`. 
 
