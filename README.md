@@ -26,7 +26,9 @@ Esse projeto foi desenvolvido utilizando:
 ## 💻 Projeto
 
 O idvogados é um projeto que visa posibilitar a entregadores que não tem seus direitos trabalhistas a achar advogados que estejam dispostos ajudar em suas causas trabalhistas. Não fui eu que tive a ideia, esse projeto foi uma proposta sugerida neste video do canal do greg news, a partir dos ultimos 10min.
+
 <iframe width="100%" src="https://www.youtube.com/embed/v3B9w6wWNQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Existe um projeto onpesorce que está colocando este projeto para funcionar, link para o repositorio: `https://github.com/thr0w/idvogados`. 
 
