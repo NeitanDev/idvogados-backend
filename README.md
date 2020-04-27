@@ -31,19 +31,17 @@ O idvogados é um projeto que visa posibilitar a entregadores que não tem seus 
   <img alt="Help a family" src="./screenshots/gregnews.png" width="100%">
 </p>
 
-- [Video Completo](https://www.youtube.com/watch?v=v3B9w6wWNQA)
+- [Link para o video completo](https://www.youtube.com/watch?v=v3B9w6wWNQA)
 
-<tagfilter>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/v3B9w6wWNQA"></iframe>
-</tagfilter>
-
-Existe um projeto onpesorce que está colocando este projeto para funcionar, link para o repositorio: `https://github.com/thr0w/idvogados`. 
+Existe um projeto onpesorce que está colocando este projeto para funcionar, link para o repositorio: [Idvogados Open-source](https://github.com/thr0w/idvogados). 
 
 Não estou com o intuito de ganhar dinheiro em cima desta ideia, meu unico objetivo é fazer um projeto com as techs node, reactjs e react-native, para melhorar minhas habilidades com as ferramentas de desenvolvimento.
 
 E usando as palavras do greg no video: `"Caso os aplicativos alegem que estamos incentivando os entregadores a fazer uma guerra judicial contra eles, saibam que a plataforma vai incluir um termo de uso que vai deixar bem claro que a gente não tem nenhuma relação com os advogados, nem com os entregadores, nem com a plataforma e nem com ninguém. E ao contrario dos aplicativos de entrega a gente não vai cobrar nada por essa ponte, nenhuma porcentagem do processo, porque essa é a cultura da nossa empresa. É não ganhar, em cima, do trabalho dos outros."`
 
 Mas não vou colocar em produção, então acaba que foi meio desnecessario essa citação, mas coloquei por motivos legais.
+
+Mas diferentemente a aplicação que vou fazer não vai ser apenas e exclusivamente para entregadores e advogados de causas trabalhistas, vai ser para todos os advogados e para todos os tipos de pessoas que estejam procurando um advogado.
 
 ## 📧 Contato
 
